@@ -69,4 +69,10 @@ fun main(){
     val variable3 : Int? = null
 
     println("La variable3 tiene el valor $variable3")
+
+
+    println("La variable1 tiene el valor entero de $variable1")
+
+    println("La variable1 tiene el valor en Float de ${variable1.toFloat()}")
+
 }
