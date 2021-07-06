@@ -1,6 +1,6 @@
 # IntroduccionKotlin1
 
-Este proyecto resumen:
+Este proyecto resumen contiene:
 - Cómo crear variables en Kotlin.
 - Cómo crear constantes.
 - Cómo pasar de un tipo a otro.
