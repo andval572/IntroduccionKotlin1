@@ -70,6 +70,15 @@ fun main(){
 
     println("La variable3 tiene el valor $variable3")
 
+    // Print y Println
+    print("Probando print(): La variable1 tiene el valor entero de ")
+    print(variable1)
+
+    // Escribe una línea vacía
+    println()
+
+    println("Probando println(): La variable1 tiene el valor entero de ")
+    println(variable1)
 
     println("La variable1 tiene el valor entero de $variable1")
 
